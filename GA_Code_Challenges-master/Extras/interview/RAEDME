@@ -1,8 +1,27 @@
-# Project Title
+# Interview Questions
 
-1. What is OOP? and Describe briefly about its four pillars.
+List of coding interview questions from Glints Academy
 
 
-## Appendix
+## 1. What is OOP? and Describe briefly about its four pillars.
 
-Any additional information goes here
+OOP
+- Scalable
+- Maintainable
+- Readable
+- DRY
+
+Inheritance
+- Inherit the properties/methods from the parent
+
+Abstraction
+- hide the details/unnecessary properties to user
+
+Polymorphism
+- Overiding the methods/properties from parent
+
+Encapsulation
+- Hide/limit the access of certain properties/methods
+
+
+  
