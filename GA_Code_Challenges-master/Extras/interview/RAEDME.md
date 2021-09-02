@@ -1,3 +1,4 @@
+
 # Interview Questions
 
 List of coding interview questions from Glints Academy
@@ -23,5 +24,7 @@ Polymorphism
 Encapsulation
 - Hide/limit the access of certain properties/methods
 
+## 2. what do you mean about NULL
 
+The NULL value is used to represent no value or no object. It implies no object or null string, no valid boolean value, no number, and no array object.
   
