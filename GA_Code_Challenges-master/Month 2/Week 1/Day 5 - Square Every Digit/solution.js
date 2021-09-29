@@ -6,3 +6,17 @@ function squareDigits(num){
     }
     return Number(results.join('')); // turn the array into a string and then into a number
   }
+
+  /*function squareDigits(num){
+    // jadiin string dulu
+    let n = num.toString();
+    // bikin array buat nampung
+    let tempArr = [];
+    // looping, terus push masing2 i disquare secara berurut
+    for (let i = 0; i < n.length; i++) {
+      tempArr[i] = n[i] * n[i];
+    }
+    // join, trs jadiin number
+    let square = parseInt(tempArr.join(''));
+    return square;
+  }*/
